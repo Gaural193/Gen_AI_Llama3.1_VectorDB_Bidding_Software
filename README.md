@@ -90,7 +90,7 @@ The system consists of three main components that work together:
 
 
 ```shellscript
-git clone https://github.com/whojayy/Gen_AI_Llama3.1_VectorDB_Bidding_Tool.git
+git clone https://github.com/Gaural193/Gen_AI_Llama3.1_VectorDB_Bidding_Software
 cd Gen_AI_Llama3.1_VectorDB_Bidding_Tool
 ```
 
